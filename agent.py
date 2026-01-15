@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""nanocode - minimal claude code alternative"""
+"""mini-agent - minimal workable agentic loop"""
 
 import glob as globlib, json, os, platform, re, shutil, subprocess, sys, urllib.request
 
