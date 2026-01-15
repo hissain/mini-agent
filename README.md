@@ -57,3 +57,5 @@ python agent.py
 - `/q` or `exit`: Quit the application.
 - `/c`: Clear the conversation history.
 - `/i`: Show system information.
+
+Inspired by [nanocode](https://github.com/1rgs/nanocode)
