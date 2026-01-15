@@ -14,7 +14,7 @@ Minimal implementation of a coding assistant, capable of reading, writing, and e
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/hissain/mini-agent.git
    cd mini-agent
    ```
 
